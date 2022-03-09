@@ -1,10 +1,10 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.wm = `〲DevicBT` //UBAH JADI NAMAMU
-global.botwm = `〲DevicBT` //UBAH JADI NAMAMU
+global.wm = `〲Elainaエライナ` //UBAH JADI NAMAMU
+global.botwm = `〲Elainaエライナ` //UBAH JADI NAMAMU
 
-global.name = 'DevicBT'// nama bot
+global.name = 'ElainaBotエライナ '// nama bot
 global.dev = `Adryan〲〲〲〲〲〲〲〲〲〲〲〲〲<XyzXz`// developer
 
 
@@ -75,7 +75,7 @@ global.donate = `
 ╰────` //UBAH JADI NOMER MU
 
 // Sticker WM
-global.packname = '〲<DevicBT>〲'
+global.packname = '〲<ElainaXyz>〲'
 global.author = 'AzzU>'
 
 global.wait = '_*Wait, Im Processing Your Request!...*_'
